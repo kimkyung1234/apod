@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart';
 
-const apiKey = 'jMhPoeFyprqtPvXudxVHOcqwW5QhvLDqXHb8MP6j';
+const apiKey = 'APIKEY';
 
 class MainScreen extends StatefulWidget {
   final String currentTime;
